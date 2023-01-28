@@ -6,6 +6,11 @@
 --> just do npm install
 
 
+--> To start the localhost Server --> node Temperature.js 
+
+-->First start the server than give the command to the bot
+
+
 
 --> UserName of the bot -AST_Consulting_bot
 
